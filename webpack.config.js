@@ -3,6 +3,6 @@ module.exports = {
             path: __dirname + "/public",
             filename: "bundle.js"
         },
-        entry: "./src/index.js",
+        entry: "./src/marker.js",
         mode: "development"
 }
